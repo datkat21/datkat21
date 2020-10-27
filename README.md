@@ -1,7 +1,7 @@
 # Hey there!
-I'm Kat! I make things in PowerPoint and GitHub.
+I'm Kat! I like to make stuff.
 <br>My socials
 
-[YouTube](https://youtube.com/datkat21)|[Twitter](https://twitter.com/datkat22)
+check out|my stuff
 ----|----
-
+[YouTube](https://youtube.com/datkat21)|[Twitter](https://twitter.com/datkat22)
