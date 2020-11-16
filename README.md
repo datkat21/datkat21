@@ -1,7 +1,6 @@
 # Hey there!
 I'm Kat! I like to make stuff.
-<br>My socials
 
-check out|my stuff
-----|----
-[YouTube](https://youtube.com/datkat21)|[Twitter](https://twitter.com/datkat22)
+My current projects:
+[CoconutDev/MiniShell](https://github.com/coconutteamdev/minishell)
+[CinnamonTeam/cinnamonteam.github.io](https://github.com/cinnamonteam/cinnamonteam.github.io)
