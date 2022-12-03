@@ -1,11 +1,13 @@
 # ![Cat Animated Banner displaying the cat icon and URL to datkat dot dev](assets/Cat%20Animated%20Background.min.svg)
 
-<blockquote align=center>
+<!--
+Turns out this is mostly broken under GitHub's sticky navbar
+ <blockquote align=center>
     <small align=center>
 quick navigation:<br>
 <a href="#hello-there">hello there</a> &bull; <a href="#why-kat21">why 'kat21'?</a> &bull; <a href="#my-projects">my projects</a> &bull; <a href="#contact-me">contact me</a> &bull; <a href="#my-setup">my pc setup</a>
 </small>
-</blockquote>
+</blockquote> -->
 
 <a id="hello-there">
 <picture>
