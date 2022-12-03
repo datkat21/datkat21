@@ -1,7 +1,7 @@
 # ![Cat Animated Banner displaying the cat icon and URL to datkat dot dev](assets/Cat%20Animated%20Background.min.svg)
 
 <!--
-Turns out this is mostly broken under GitHub's sticky navbar
+Turns out this is mostly broken under GitHub's sticky
  <blockquote align=center>
     <small align=center>
 quick navigation:<br>
@@ -82,7 +82,7 @@ You can reach me on Discord (Kat21#0021) or via e-mail: datkat21.yt@gmail.com
 </picture>
 <br>
 
-My PC is a bit specced if I were only using it for development, but I mainly bought it for playing some demanding video games like [Tower Unite](https://towerunite.com/) ([Steam](https://steamcommunity.com/app/394690)), which I have hundreds of hours in since I bought the game in 2016. I'm not affiliated with PixelTail Games, but I heavily enjoy their amazing .
+My PC is a bit specced if I were only using it for development, but I mainly bought it for playing some demanding video games like [Tower Unite](https://towerunite.com/) ([Steam](https://steamcommunity.com/app/394690)), which I have hundreds of hours in since I bought the game in 2016. I'm not affiliated with PixelTail Games, but I heavily enjoy their amazing game.
 
 I use a prebuilt, specifically the [Alienware Aurora R9](https://www.dell.com/en-us/shop/gaming-and-games/alienware-aurora-r9-gaming-desktop/spd/alienware-aurora-r9-desktop). I may build a PC in the future if I want to.
 
