@@ -18,7 +18,7 @@ I'm Kat21, a web developer and designer based in the United States. I enjoy prog
 </picture>
 <br>
 
-The name *kat* comes from an old username of mine from 2015. It does not stand for anything, not any girl names.
+The name *kat* comes from an old username of mine from 2015. It just means _cat_, but with a K, because I was trying to be cool back then.
 
 The *21* in Kat21 is also from around the same time when Vine was getting popular. There was a meme called "*9 + 10 = 21*", which got really popular due to the kid featured in it being silly for what he said.
 
