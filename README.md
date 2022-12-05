@@ -34,27 +34,22 @@ Around 2019, I decided to incorporate *21* into my name because it just fit in p
 Below is a list containing some of my best projects:
 
 * Saturn by [ZeonDev](https://github.com/zeondev)  
-  <!-- <img alt="saturn project logo" src=assets/content/saturn-logo.svg width="64px">   -->
   A JavaScript Web OS project, similar to something like [os-js](https://os-js.org). **Currently unavailable while it's in development.**   
   Instead, see [Saturn-Core](https://github.com/zeondev/saturn-core), our template for creating web apps that use their own kind of package system.
 
 * [Amoled Discord Dark Theme](https://github.com/datkat21/Amoled-Dark-Theme-for-Discord)    
-    <!-- ![Discord amoled theme preview](assets/content/discord-amoled-thumbnail.png) -->
-    A custom CSS theme you can inject into Discord which turns the colors to AMOLED (pitch-black). Used to look good, mostly untested with how much Discord has changed now.)
+  A custom CSS theme you can inject into Discord which turns the colors to AMOLED (pitch-black). Used to look good, mostly untested with how much Discord has changed now.
 * [PowerPoint Discord Rich Presence](https://github.com/datkat21/PowerPoint-Discord-RPC)    
-  <!-- ![PowerPoint Discord RPC](assets/content/ppt-discord-rpc-thumbnail.png) -->
   A Microsoft PowerPoint add-in that enables Discord Rich Presence using [DiscordRPC for C#](https://github.com/Lachee/discord-rpc-csharp).
 * [Stylus Themes](https://github.com/datkat21/stylus-themes)     
   A collection of styles that will improve your experience (usualy add dark mode and improve customization) on certain websites. These were tested on the [Stylus](https://add0n.com/stylus.html) extension only.
-  <!-- ![Stylus extension screenshot showing the themes](assets/content/stylus-themes.png)   -->
+  
 
 Below is a list of older projects (that won't get updates) that I still like: 
 
 * [sShell](https://github.com/sshell-git/sShell)    
-    <!-- ![sshell project logo](assets/content/sshell-logo.svg)   -->
     A somewhat functioning, mostly unfinished Windows Explorer replacement made in WPF/XAML.
 * [MiniShell](https://github.com/limeyteam/minishell)   
-    <!-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/content/minishell-logo-light.svg"><img width=200 title="MiniShell Logo" alt="MiniShell Logo" src="assets/content/minishell-logo-dark.svg"></picture>    -->
     A half working "shell" made in Bash for some reason. Mostly made for fun to test my scripting skills.
 
 <a id="contact-me">
