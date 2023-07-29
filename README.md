@@ -21,7 +21,7 @@ I enjoy programming in JavaScript/TypeScript, PHP and more!
 
 The name *kat* comes from an old username of mine from 2015. It just means _cat_, but with a K, hence "Kat".
 
-The *21* in Kat21 is also from around the same time when Vine was getting popular. There was a meme called "*9 + 10 = 21*", which 
+The *21* in Kat21 is also from around the same time when Vine was getting popular. There was a meme called "*9 + 10 = 21*", which got really popular due to the kid featured in it being silly for what he said.
 
 <img align=right src="assets/stickers/cat-open-mouth-small.svg" width=64>
 
