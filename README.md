@@ -1,6 +1,6 @@
 # ![Cat banner logo](assets/cat2023.svg)
 
-<a id="hello-there">
+<a id="hello-there"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/hellothere-light.svg">
   <img width=200 title="hello there!" alt="hello there!" src="assets/headings/hellothere-dark.svg">
@@ -12,7 +12,7 @@ I enjoy programming in JavaScript/TypeScript, PHP and more!
 
 <blockquote><small>Pronouns: <code>he/him</code>&mdash;yes, I'm male</small></blockquote>
 
-<a id="why-kat21">
+<a id="why-kat21"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/whyname-light.svg">
   <img width=200 title="why the name 'kat21'?" alt="why the name 'kat21'?" src="assets/headings/whyname-dark.svg">
@@ -27,7 +27,7 @@ The *21* in Kat21 is also from around the same time when Vine was getting popula
 
 Around 2019, I decided to incorporate *21* into my name because it just fit in pretty well, and having the same name of _DaCuteKittyKat_ (yes, that's the name from 2015, I was young at the time) for so long would not be that much fun.
 
-<a id="my-projects">
+<a id="my-projects"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/myprojects-light.svg">
   <img width=200 title="why the name 'kat21'?" alt="why the name 'kat21'?" src="assets/headings/myprojects-dark.svg">
@@ -44,7 +44,7 @@ Here's a list of older projects (that won't get updates) that other people use:
 * [PowerPoint Discord Rich Presence](https://github.com/datkat21/PowerPoint-Discord-RPC)    
   A Microsoft PowerPoint add-in that enables Discord Rich Presence using [DiscordRPC for C#](https://github.com/Lachee/discord-rpc-csharp).
 
-<a id="contact-me">
+<a id="contact-me"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/contactme-light.svg">
   <img width=200 title="contact me" alt="contact me" src="assets/headings/contactme-dark.svg">
@@ -53,7 +53,7 @@ Here's a list of older projects (that won't get updates) that other people use:
 
 You can reach me on Discord at [`kat21`](https://discordapp.com/users/352651395683319821) or via e-mail: [kat@cherries.to](mailto:kat@cherries.to)
 
-<a id="my-setup">
+<a id="my-setup"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/headings/mysetup-light.svg">
   <img width=200 title="my setup" alt="my setup" src="assets/headings/mysetup-dark.svg">
@@ -62,9 +62,7 @@ You can reach me on Discord at [`kat21`](https://discordapp.com/users/3526513956
 
 My PC is quite performant if I were only using it for development, but I also use it for gaming.
 
-I use a prebuilt, specifically the [Alienware Aurora R9](https://www.dell.com/en-us/shop/gaming-and-games/alienware-aurora-r9-gaming-desktop/spd/alienware-aurora-r9-desktop). I may build a PC in the future if I want to.
-
-Peripherals are shown below:
+Here are some of the peripherals that I use:
 
 | Type         | Device                               |
 | ------------ | ------------------------------------ |
